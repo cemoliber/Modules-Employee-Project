@@ -1,0 +1,16 @@
+{
+  "employees": [
+    {
+      "name": "Cemalettin Coşgun",
+      "department": "Software Developer",
+      "salary": "50000",
+      "id": "0fe4"
+    },
+    {
+      "name": "Berna Çınar",
+      "department": "Teacher",
+      "salary": "60000",
+      "id": "e57f"
+    }
+  ]
+}
